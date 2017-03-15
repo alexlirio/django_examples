@@ -1,0 +1,10 @@
+# Django
+Django==1.10.6
+
+# Tastypie
+python-mimeparse==1.6.0
+python-dateutil==2.6.0
+django-tastypie==0.13.3
+
+# MySQL
+mysql-python==1.2.5
